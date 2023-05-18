@@ -1,0 +1,3 @@
+https://developers.trustpilot.com/business-units-api-(public)
+https://developers.trustpilot.com/#Auth
+https://support.trustpilot.com/hc/en-us/articles/207309867-Getting-started-with-Trustpilot-s-APIs
