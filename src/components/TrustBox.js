@@ -13,7 +13,7 @@ const TrustBox = () => {
 	}, []);
 
 	// FOR TEST: * problem only `bricks` works (18.05.23)
-	// 6283d3ff8b0c428e7f3882a4 - bricks
+	// 60ab561bcff30c000154d6d1 - bricks
 	// 46d46ce6000064000500c2ad - nike
 	// 5f0237a59ab8290001504faa - realt
 	// 6283d3ff8b0c428e7f3882a4 - bank
